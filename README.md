@@ -1,1 +1,1 @@
-# lab-7
+This document focuses on professional aviation email writing using Generative AI. It explains weak and structured prompts, the six-part prompt framework, BLUF, audience-specific communication, passenger complaints, internal staff emails, review gates, peer feedback, and human approval. It emphasizes accuracy, tone, compliance, context, and avoiding 
